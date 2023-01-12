@@ -1,0 +1,1 @@
+This is a package from Pranav Amlekar that helps you to create various permutations of cases (Camel case and snake case) for bag of words.
