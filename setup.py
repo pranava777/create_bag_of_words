@@ -11,7 +11,7 @@ setuptools.setup(
     description='Installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/mike-huls/toolbox',
+    url='https://github.com/pranava777/create_bag_of_words.git',
     # project_urls = {
     #     "Bug Tracker": "https://github.com/mike-huls/toolbox/issues"
     # },

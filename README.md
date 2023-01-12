@@ -2,4 +2,4 @@ This is a package from Pranav Amlekar that helps you to create various permutati
 
 Use the following command to install the package :
 
-pip install git+https://github.com/mike-huls/toolbox.git
+pip install git+https://github.com/pranava777/create_bag_of_words.git
